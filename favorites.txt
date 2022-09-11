@@ -5,3 +5,7 @@ strawberry
 matrix1
 matrix2
 matrix3
+
+red 
+blue
+green
